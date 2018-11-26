@@ -10,4 +10,3 @@ if sock.connect_ex((ip,port)):
 else:
 	print "Port", port, "is open"
 	
-
